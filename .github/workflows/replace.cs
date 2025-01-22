@@ -1,0 +1,1 @@
+return new MongoClient(secretCosmos.Value.Value);
